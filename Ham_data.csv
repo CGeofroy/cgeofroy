@@ -1,4 +1,4 @@
-CTUID,pop,pop_density,avg_size,2_bed,3_bed,detached_home,apartment,owners,renters,degree_diploma,total_rooms,total_type_building,total_users,total_edu
+CTUID,pop,pop_density,avg_size,two_bed,three_bed,detached_home,apartment,owners,renters,degree_diploma,total_rooms,total_type_building,total_users,total_edu
 5370000,747545,544.9,2.5,61600,118355,165060,45395,206485,86860,332950,293345,293345,293345,612635
 5370001.01,2193,397.6,2.9,105,340,475,0,570,185,845,760,770,760,1735
 5370001.02,5302,4102.4,3,105,1185,970,0,1325,430,2135,1760,1760,1755,4235
